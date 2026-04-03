@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Virtual Interviewer
 
 A real-time AI-powered technical interviewer built with Streamlit and OpenAI.
@@ -29,3 +30,7 @@ A real-time AI-powered technical interviewer built with Streamlit and OpenAI.
 docker build -t ai-interviewer .
 docker run -p 8501:8501 ai-interviewer
 ```
+=======
+# AI-Virtual-Interviewer
+MLOPS project 
+>>>>>>> fb325661e302cbae68ffdaac3b54740c8d55dd2a
